@@ -1,8 +1,17 @@
 # blocks
 A Juptyer notebook on visualizing classification structure of large-scale classifiers
 
-![AudioSet Class Similarity Matrix](/AudioSet_Class_Similarity.png)
-Format: ![AudioSet Class Similarity Matrix](url)
+## AudioSet Class Similarity Matrix
+Each row / column is one of 527 classes (audio events).
+The dataset is multi-labeled with high class imbalance.
+The major similarity groups exposed by visualizing the matrix are music, inside, organism, and outside.
+This suggests that the CNN develops shared features that characterize each of these groups. 
 
+![AudioSet Class Similarity Matrix](/AudioSet_Class_Similarity.png)
+
+## VGGFace Class Similarity Matrix
 ![VGGFace Class Similarity Matrix](/VGGFace_SImilarities.png)
-Format: ![VGGFace Class Similarity Matrix](url)
+Each row / column is one of 2622 classes (celebrities).
+Male vs. female celebrities define the major two blocks in the matrix.
+Prominent subgroups in these blocks are based on wrinkles and hair / skin color.
+Chromaticity defines two of these sub-groups (split marked in red), and indicates that the CNN uses unreliable features to recognize the corresponding celebrities.
