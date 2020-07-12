@@ -11,8 +11,9 @@ The dataset is multi-labeled with high class imbalance.
 The major similarity groups exposed by visualizing the matrix are music, inside, organism, and outside.
 This suggests that the CNN develops shared features that characterize each of these groups. 
 
-<img src="/AudioSet_Class_Similarity.png" alt="drawing" width="500"/>
-
+<p align="center">
+<img src="/AudioSet_Class_Similarity.png" alt="drawing" width="700"/>
+</p>
 
 ## VGGFace Class Similarity Matrix
 ![VGGFace Class Similarity Matrix](/VGGFace_SImilarities.png)
