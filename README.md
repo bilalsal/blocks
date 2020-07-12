@@ -1,6 +1,6 @@
 # Visualizing Classification Structure of Large-scale Classifiers
 
-A 3-min talk: <br/>
+## A 3-min talk
 [![Spotlight Talk @ICML 2020 WHI Workshop](https://img.youtube.com/vi/yat1Y5Tu8AI/0.jpg)](https://www.youtube.com/watch?v=yat1Y5Tu8AI)
 
 
