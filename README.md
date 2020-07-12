@@ -1,5 +1,9 @@
-# blocks
-A Juptyer notebook on visualizing classification structure of large-scale classifiers
+# Visualizing Classification Structure of Large-scale Classifiers
+
+## Example Notebook
+Explore the classification structure in Places365, classified using resnet18.
+<br/>
+[Jupyter Notebook](Places365_example.ipynb)
 
 ## AudioSet Class Similarity Matrix
 Each row / column is one of 527 classes (audio events).
@@ -7,7 +11,7 @@ The dataset is multi-labeled with high class imbalance.
 The major similarity groups exposed by visualizing the matrix are music, inside, organism, and outside.
 This suggests that the CNN develops shared features that characterize each of these groups. 
 
-![AudioSet Class Similarity Matrix](/AudioSet_Class_Similarity.png)
+![AudioSet Class Similarity Matrix](/AudioSet_Class_Similarity.png  =500)
 
 ## VGGFace Class Similarity Matrix
 ![VGGFace Class Similarity Matrix](/VGGFace_SImilarities.png)
