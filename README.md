@@ -6,7 +6,7 @@ Explore the classification structure in [MIT Places365](http://places2.csail.mit
 [View Jupyter Notebook](Places365_example.ipynb)
 
 ## Example of Classification Structure
-Below are similarity matrix of two large-scale classification problems.
+Below are class similarity matrices computed for two large-scale classifiers.
 
 ### AudioSet Class Similarity Matrix
 Each row / column is one of 527 classes (audio events) from [Google's AudioSet](https://research.google.com/audioset/).
