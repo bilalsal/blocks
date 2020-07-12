@@ -46,6 +46,7 @@ You can cite the article as follows:
   author={Bilal Alsallakh and Zhixin Yan and Shabnam Ghaffarzadegan and Zeng Dai and Ren, Liu},
   booktitle={ICML Workshop on Human Interpretability in Machine Learning (WHI)},
   year={2020},
+}
 ```
 
 
