@@ -1,13 +1,13 @@
 # Visualizing Classification Structure of Large-scale Classifiers
 
-## 3-min Talk
-[![Spotlight Talk @ICML 2020 WHI Workshop](https://img.youtube.com/vi/yat1Y5Tu8AI/0.jpg)](https://www.youtube.com/watch?v=yat1Y5Tu8AI)
-
-
 ## Example Notebook
 Explore the classification structure in [MIT Places365](http://places2.csail.mit.edu/), classified using ResNet-18 as implemented in PyTorch.
 <br/>
 [View Jupyter Notebook](Places365_example.ipynb)
+
+## 3-min Talk
+[![Spotlight Talk @ICML 2020 WHI Workshop](https://img.youtube.com/vi/yat1Y5Tu8AI/0.jpg)](https://www.youtube.com/watch?v=yat1Y5Tu8AI)
+
 
 ## Example of Classification Structure
 Below are class similarity matrices computed for two large-scale classifiers.
@@ -41,7 +41,7 @@ You can cite the article as follows:
 <br/>
 ```
 @inproceedings{alsallakh2018Understanding,
-  title={Visualizing Classification Structure of Large-Scale Classifiers Bilal Alsallakh},
+  title={Visualizing Classification Structure of Large-Scale Classifiers},
   author={Bilal Alsallakh and Zhixin Yan and Shabnam Ghaffarzadegan and Zeng Dai and Ren, Liu},
   booktitle={ICML Workshop on Human Interpretability in Machine Learning (WHI)},
   year={2020},
