@@ -1,5 +1,8 @@
 # Visualizing Classification Structure of Large-scale Classifiers
 
+[![Spotlight Talk @ICML 2020 WHI Workshop](https://img.youtube.com/vi/yat1Y5Tu8AI/0.jpg)](https://www.youtube.com/watch?v=yat1Y5Tu8AI)
+
+
 ## Example Notebook
 Explore the classification structure in [MIT Places365](http://places2.csail.mit.edu/), classified using ResNet-18 as implemented in PyTorch.
 <br/>
@@ -28,4 +31,18 @@ Chromaticity defines two of these sub-groups (split marked in red), and indicate
 <p align="center">
 <img src="/example_images/VGGFace_Class_Similarities.png" alt="drawing" width="900"/>
 </p>
+
+## Article and BibTex
+
+[PDF](#)
+
+You can cite the article as follows:
+<br/>
+@inproceedings{alsallakh2018Understanding,
+  title={Visualizing Classification Structure of Large-Scale Classifiers Bilal Alsallakh},
+  author={Bilal Alsallakh and Zhixin Yan and Shabnam Ghaffarzadegan and Zeng Dai and Ren, Liu},
+  booktitle={ICML Workshop on Human Interpretability in Machine Learning (WHI)},
+  year={2020},
+
+
 
