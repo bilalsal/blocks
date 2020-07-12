@@ -3,11 +3,10 @@
 ## Example Notebook
 Explore the classification structure in [MIT Places365](http://places2.csail.mit.edu/), classified using ResNet-18 as implemented in PyTorch.
 <br/>
-[Jupyter Notebook](Places365_example.ipynb)
+[View Jupyter Notebook](Places365_example.ipynb)
 
 ## AudioSet Class Similarity Matrix
-Each row / column is one of 527 classes (audio events) from [Google's AudioSet](https://research.google.com/audioset/)
-.
+Each row / column is one of 527 classes (audio events) from [Google's AudioSet](https://research.google.com/audioset/).
 The dataset is multi-labeled with high class imbalance.
 The major similarity groups exposed by visualizing the matrix are music, inside, organism, and outside.
 This suggests that the CNN develops shared features that characterize each of these groups. 
