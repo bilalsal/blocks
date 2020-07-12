@@ -1,0 +1,6 @@
+@inproceedings{alsallakh2018Understanding,
+  title={Visualizing Classification Structure of Large-Scale Classifiers Bilal Alsallakh},
+  author={Bilal Alsallakh and Zhixin Yan and Shabnam Ghaffarzadegan and Zeng Dai and Ren, Liu},
+  booktitle={ICML Workshop on Human Interpretability in Machine Learning (WHI)},
+  year={2020},
+}
