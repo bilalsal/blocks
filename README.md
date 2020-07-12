@@ -15,7 +15,7 @@ The major similarity groups exposed by visualizing the matrix are music, inside,
 This suggests that the CNN develops shared features that characterize each of these groups. 
 
 <p align="center">
-<img src="/AudioSet_Class_Similarity.png" alt="drawing" width="700"/>
+<img src="/example_images/AudioSet_Class_Similarity.png" alt="drawing" width="700"/>
 </p>
 
 ### VGGFace Class Similarity Matrix
@@ -26,6 +26,6 @@ Chromaticity defines two of these sub-groups (split marked in red), and indicate
 
 
 <p align="center">
-<img src="/VGGFace_SImilarities.png" alt="drawing" width="900"/>
+<img src="/example_images/VGGFace_Class_Similarities.png" alt="drawing" width="900"/>
 </p>
 
