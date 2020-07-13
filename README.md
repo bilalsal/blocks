@@ -40,7 +40,7 @@ Chromaticity defines two of these sub-groups (split marked in red), and indicate
 You can cite the article as follows:
 <br/>
 ```
-@inproceedings{alsallakh2018Understanding,
+@inproceedings{whi2020visualizing,
   title={Visualizing Classification Structure of Large-Scale Classifiers},
   author={Bilal Alsallakh and Zhixin Yan and Shabnam Ghaffarzadegan and Zeng Dai and Ren, Liu},
   booktitle={ICML Workshop on Human Interpretability in Machine Learning (WHI)},
