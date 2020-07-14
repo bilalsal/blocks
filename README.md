@@ -35,7 +35,7 @@ Chromaticity defines two of these sub-groups (split marked in red), and indicate
 
 ## Article and BibTex
 
-[PDF](#)
+[Here](https://arxiv.org/abs/2007.06068) is an article describing how we compute class similarity and how we visualize the class similarity matrix, with examples on five datasets. The article is accepted to the [WHI Workshop @ICML 2020](https://sites.google.com/view/whi2020).
 
 You can cite the article as follows:
 <br/>
@@ -48,5 +48,6 @@ You can cite the article as follows:
 }
 ```
 
+## Thank You
 
-
+If you have any suggestions or feedback, we will be happy to hear from you!
