@@ -1,5 +1,9 @@
 # Visualizing Classification Structure of Large-scale Classifiers
 
+This project aims to visualize class similarities in large-scale classifiers such as deep neural networks.
+These similarities usually define a hierarchical structure over the classes.
+Understanding this structure helps explain the classifier's behaviour and it errors because it largely influences the features the classifier learns.
+
 ## Example Notebook
 Explore the classification structure in [MIT Places365](http://places2.csail.mit.edu/), classified using ResNet-18 as implemented in PyTorch.
 <br/>
